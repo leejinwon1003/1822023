@@ -1,0 +1,12 @@
+body {
+    background-image: url('1822023_7.jpg');
+}
+h2 {
+    font-size: 30px;
+    font-style:italic;
+}
+p {
+    font-size: 20px;
+    font-style: inherit;
+    font-weight: 1000;
+}
